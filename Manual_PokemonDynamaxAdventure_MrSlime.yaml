@@ -1,0 +1,8 @@
+name: Slimes DA
+description: Default Dynamax Adventure template
+
+game: Manual_PokemonDynamaxAdventure_MrSlime
+
+Manual_PokemonDynamaxAdventure_MrSlime:
+    progression_balancing: 50
+    accessibility: items
